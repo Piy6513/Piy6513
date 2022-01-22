@@ -1,10 +1,41 @@
 ### Hi 👋  Je m' appelle Piyushraj Singh!!
 Here are some things about me!!!
+
 - 🔭 I’m currently working on 2048 with C using recursion
 - 🌱 I’m currently learning DATABASE MANAGEMENT
 - 👯 I’m looking to collaborate on OpenSource Projects
 - 💻 All my projcts are available at https://github.com/Piy6513
+- 📫 How to reach me piyushraj2003@gmail.com
 - 💬 Ask me about C/C++ and SQL
-- 📫 How to reach me: piyushraj2003@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy teamwork
+
+👨‍💻 LANGUAGES AND TOOLS
+
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="SQL" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg" alt="GitHub" height="40" style="vertical-align:top; margin:4px">
+</p>
+
+📊 My Github Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Piy6513&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piy6513&theme=tokyonight)
+
+Connect with me:
+
+<p align="center">
+ <a href="https://github.com/Piy6513" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://www.linkedin.com/in/piyushraj-singh-523711206/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.instagram.com/piyush_163/"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
+
+❤ Views and Followers
+
+![](https://visitor-badge.laobi.icu/badge?page_id=Piy6513.Piy6513)
+[![Github](https://img.shields.io/github/followers/Piy6513?label=Follow&style=social)](https://github.com/Piy6513)
+
