@@ -11,7 +11,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy teamwork
 
-<h1>👨‍💻 LANGUAGES AND TOOLS</h1>
+<h1>👨‍💻 Languages And Tools</h1>
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="40" style="vertical-align:top; margin:4px">
