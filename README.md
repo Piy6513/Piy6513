@@ -2,11 +2,11 @@
 
 <h1>Here are some things about me!!!</h1>
 
-- 🔭 I’m currently working on 2048 with C using recursion
+- 🔭 I’m currently working on Machine Learning with Python
 - 🌱 I’m currently learning DATABASE MANAGEMENT
 - 👯 I’m looking to collaborate on OpenSource Projects
-- 💻 All my projcts are available at https://github.com/Piy6513
-- 📫 How to reach me piyushraj2003@gmail.com
+- 💻 All my projects are available at https://github.com/Piy6513
+- 📫 Email me at piyushraj2003@gmail.com
 - 💬 Ask me about C/C++ and SQL
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy teamwork
