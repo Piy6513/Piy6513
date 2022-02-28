@@ -28,6 +28,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piy6513&theme=tokyonight)
 
+<a href="https://github.com/Piy6513/github-readme-activity-graph"><img alt="Piyushraj Singh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Piy6513&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+
 <h1>Connect with me:</h1>
 
 <p align="center">
