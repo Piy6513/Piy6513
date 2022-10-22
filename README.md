@@ -22,6 +22,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="GitHub" height="40" style="vertical-align:top; margin:4px">
 </p>
 
+
 <h1>📊 My Github Stats</h1>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Piy6513&show_icons=true&theme=tokyonight)
@@ -29,6 +30,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piy6513&theme=tokyonight)
 
 <a href="https://github.com/Piy6513/github-readme-activity-graph"><img alt="Piyushraj Singh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Piy6513&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<p align="center">
+    <a href="https://github.com/Piy6513/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Piyushraj Singh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Piy6513&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
 <br/>
 
