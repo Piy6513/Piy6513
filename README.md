@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Machine Learning with Python
 - 🌱 I’m currently learning DATABASE MANAGEMENT
 - 👯 I’m looking to collaborate on OpenSource Projects
-- 💻 All my projects are available at https://github.com/Piy6513
+- 💻 All my projects are available at [Piy6513](https://github.com/Piy6513)
 - 📫 Email me at piyushraj2003@gmail.com
 - 💬 Ask me about C/C++ and SQL
 - 😄 Pronouns: He/Him
@@ -14,12 +14,15 @@
 <h1>👨‍💻 Languages And Tools</h1>
 
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="40" style="vertical-align:top; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" height="40" style="vertical-align:top; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" height="40" style="vertical-align:top; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="SQL" height="40" style="vertical-align:top; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg" alt="GitHub" height="40" style="vertical-align:top; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="GitHub" height="40" style="vertical-align:top; margin:4px">
+<a href="https://www.w3schools.com/CPP/default.asp" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a> 
+<a href="https://www.w3schools.in/c-tutorial/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a> 
+<a href="https://code.visualstudio.com/docs" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a> 
+<a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/pycharm.png"/> </a> 
+<a href="https://github.com/Piy6513" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/github.png"/> </a> 
+<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+<a href="https://www.mysql.com/products/workbench/"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="40"/> </a>
+<a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
 </p>
 
 
@@ -42,9 +45,10 @@
 <h1>Connect with me:</h1>
 
 <p align="center">
- <a href="https://github.com/Piy6513" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/piyushraj-singh-523711206/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="https://www.instagram.com/piyush_163/"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href = "https://twitter.com/PiyushS6513"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
+ <a href = "https://www.linkedin.com/in/piyushraj-singh-523711206/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/piyush_163/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> 
+<a href = "https://twitter.com/PiyushS6513"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> 
 </p>
 
 <h1>❤ Views and Followers</h1>
