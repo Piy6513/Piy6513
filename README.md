@@ -1,6 +1,6 @@
-### Hi 👋  Je m' appelle Piyushraj Singh!!
+### <h1 align="center">Hi 👋  Je m' appelle Piyushraj Singh!!</h1>
 
-<h1>Here are some things about me!!!</h1>
+<h1 align= "center" >Here are some things about me!!!</h1>
 
 - 🔭 I’m currently working on Machine Learning with Python
 - 🌱 I’m currently learning DATABASE MANAGEMENT
@@ -30,7 +30,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Piy6513&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piy6513&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piy6513&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 
 <a href="https://github.com/Piy6513/github-readme-activity-graph"><img alt="Piyushraj Singh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Piy6513&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
