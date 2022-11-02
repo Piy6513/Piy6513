@@ -11,7 +11,7 @@
 - 📫 Email me at piyushraj2003@gmail.com
 - 💬 Ask me about C/C++ and SQL
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy teamwork and I ABSOLUTELY LOVE Dinosaurs!!!
+- ⚡ Fun fact: I ABSOLUTELY LOVE Dinosaurs 🦖!!!
 
 <h1>👨‍💻 Languages And Tools</h1>
 
