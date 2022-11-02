@@ -1,5 +1,7 @@
 ### <h1 align="center">Hi 👋  Je m' appelle Piyushraj Singh!!</h1>
 
+<p align= "center"><img src=https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></p>
+
 <h1 align= "center" >Here are some things about me!!!</h1>
 
 - 🔭 I’m currently working on Machine Learning with Python
@@ -9,7 +11,7 @@
 - 📫 Email me at piyushraj2003@gmail.com
 - 💬 Ask me about C/C++ and SQL
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy teamwork
+- ⚡ Fun fact: I enjoy teamwork and I ABSOLUTELY LOVE Dinosaurs!!!
 
 <h1>👨‍💻 Languages And Tools</h1>
 
